@@ -74,3 +74,22 @@ tr:hover {
   border-radius: 3px;
   text-decoration: none;
 }
+
+.edit_btn {
+  text-decoration: none;
+  padding: 2px 5px;
+  background: #2e8b57;
+  color: white;
+  border-radius: 3px;
+}
+
+.msg {
+  margin: 30px auto;
+  padding: 10px;
+  border-radius: 5px;
+  color: #3c763d;
+  background: #dff0d8;
+  border: 1px solid #3c763d;
+  width: 50%;
+  text-align: center;
+}
